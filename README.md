@@ -72,14 +72,6 @@ const bhavya = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhavyag-dev&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
-</div>
-
----
-
 ## 🌐 Let's Build Something Together
 
 <div align="center">
