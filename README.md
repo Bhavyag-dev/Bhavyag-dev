@@ -1,16 +1,3 @@
-Yes, exactly. For it to render like that on GitHub, your `README.md` must contain plain Markdown, not be wrapped inside an outer code block.
-
-Do this:
-
-1. Open `README.md`
-2. Remove everything
-3. Paste the content directly as normal text
-4. Make sure there is no starting ````md` at the top
-5. Make sure there is no closing ``` at the bottom
-6. Save, then refresh GitHub
-
-Paste this directly into `README.md`:
-
 <div align="center">
 
 ```
@@ -105,9 +92,8 @@ const bhavya = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvishwas221@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwas-saxena-aa985a321)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919548033751)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbhavyawork@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-goyal-05530a30a/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhavyag-dev)
 
 </div>
