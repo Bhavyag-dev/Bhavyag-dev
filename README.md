@@ -1,5 +1,26 @@
-```md
+Yes, exactly. For it to render like that on GitHub, your `README.md` must contain plain Markdown, not be wrapped inside an outer code block.
+
+Do this:
+
+1. Open `README.md`
+2. Remove everything
+3. Paste the content directly as normal text
+4. Make sure there is no starting ````md` at the top
+5. Make sure there is no closing ``` at the bottom
+6. Save, then refresh GitHub
+
+Paste this directly into `README.md`:
+
 <div align="center">
+
+```
+██╗   ██╗██╗███████╗██╗  ██╗██╗    ██╗ █████╗ ███████╗
+██║   ██║██║██╔════╝██║  ██║██║    ██║██╔══██╗██╔════╝
+██║   ██║██║███████╗███████║██║ █╗ ██║███████║███████╗
+╚██╗ ██╔╝██║╚════██║██╔══██║██║███╗██║██╔══██║╚════██║
+ ╚████╔╝ ██║███████║██║  ██║╚███╔███╔╝██║  ██║███████║
+  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+there%2C+I'm+BHAVYA+%F0%9F%91%8B;Full-Stack+Dev+%7C+MERN+Alchemist+%7C+Code+Craftsman" alt="Typing SVG" />
 
@@ -72,6 +93,14 @@ const bhavya = {
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhavyag-dev&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+</div>
+
+---
+
 ## 🌐 Let's Build Something Together
 
 <div align="center">
@@ -105,6 +134,5 @@ const bhavya = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-```
 
-If you want, I can also update the email, LinkedIn, and WhatsApp details to yours so the whole file matches `BHAVYA`.
+If you want, I can give you one more version with your own email and LinkedIn changed too.
