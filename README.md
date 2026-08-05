@@ -21,7 +21,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=astro,c,cpp,py,java,js,ts,html,css,react,nodejs,powershell,r,php,bash,arduino,git,github,vscode,linux,figma&theme=dark" height="45" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=astro,c,cpp,py,java,js,ts,html,css,react,nodejs,powershell,r,php,bash,arduino,git,github,vscode,linux,figma&theme=dark" height="55" alt="tech stack"/>
 </div>
 
 <br/>
