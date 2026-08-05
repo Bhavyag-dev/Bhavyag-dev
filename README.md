@@ -2,187 +2,140 @@
 
 <br/>
 
+<h1 align="center">Bhavya here 🔥 !</h1>
+<p align="center">Namaste 🙏 I'm Bhavya Goyal</p>
+
+<br/>
+
+## 💫 About Me
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Bhavyag-dev&label=Profile+Views&color=00f5ff&style=flat-square" />
+</p>
+
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="90" valign="top">
-      <img src="https://raw.githubusercontent.com/Bhavyag-dev/Bhavyag-dev/main/vagabond.jpg" width="90" style="border-radius: 8px;" alt="Bhavya Goyal" />
+    <td width="60%" valign="top">
+      <ul>
+        <li>🌟 Began the journey with MERN stack development and building scalable applications.</li>
+        <li>💬 I work on full-stack web development and web designing while focusing on AI, Web3, and developer tools.</li>
+        <li>🎓 I am currently pursuing a degree in Computer Science.</li>
+        <li>🔭 Working with React, Node.js, Express, and MongoDB.</li>
+        <li>🤝 Ask me about MongoDB, Express, React, Node.js, and product engineering.</li>
+        <li>⚡ Interest in AI, Web3, and developer tools.</li>
+        <li>🎯 I focus on writing clean, maintainable code with great UX.</li>
+      </ul>
     </td>
-    <td valign="top" style="padding-left: 20px;">
-      <h1 align="left">Bhavya Goyal</h1>
-      <p align="left"><strong>Full Stack & Web3 Developer</strong> • Building the internet I want to use.</p>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="max-width: 320px; border-radius: 8px;" alt="Coding Animation" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-* ⚡ AI, Web3, and developer tools keep me curious.
-* 🚀 I optimize for learning, shipping, and compounding.
-* 🛠 Currently building **Planora** and experimenting with workspace event SaaS platforms.
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+there%2C+I'm+BHAVYA+%F0%9F%91%8B;Full-Stack+Dev+%7C+MERN+Alchemist+%7C+Code+Craftsman" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhavyag-dev&label=Profile+Views&color=00f5ff&style=flat-square" />
-  &nbsp;
-  <a href="https://wakatime.com/@Bhavyag-dev"><img src="https://wakatime.com/badge/user/Bhavyag-dev.svg?style=flat-square" alt="wakatime" /></a>
-</p>
-
+<p align="center"><strong>🌟 Follow Me on:</strong></p>
 <p align="center">
   <a href="mailto:gbhavyawork@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/bhavyagoyal1/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Bhavyag-dev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://x.com/Bhavyaztwt"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://cal.com/bhavya-goyal/30min"><img src="https://img.shields.io/badge/Book%20a%20Call-000000?style=for-the-badge&logo=calendly&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧬 `> whoami`
+## 🛠 Languages & Tools I Have Placed My Hands On
 
-```js
-const bhavya = {
-  name        : "BHAVYA",
-  role        : "Full-Stack Developer",
-  stack       : ["MongoDB", "Express.js", "React.js", "Node.js"],
-  passions    : ["Clean Code", "Scalable Systems", "Great UX"],
-  currentFocus: "Building production-grade MERN apps",
-  funFact     : "I refactor my code more than I sleep 😅",
-  available   : true, // ← Open to collaborate!
-};
-```
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,firebase,git,github,nextjs,nodejs,postman,c,cpp,cs,react,astro,ubuntu,mysql,js,deno,dotnet,vscode,vite,py,bash,npm,ts,jupyter&perline=15" />
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Bhavyag-dev&show_icons=true&bg_color=000000&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyag-dev&layout=compact&bg_color=000000&title_color=00F5FF&text_color=ffffff&hide_border=true&langs_count=8" width="100%" />
+    </td>
+    <td width="50%" valign="top" style="padding-left: 20px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavyag-dev&background=000000&border=000000&stroke=000000&ring=00F5FF&fire=00F5FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F5FF&sideLabels=ffffff&dates=888888&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💻 Tech Stack
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=astro,c,cpp,py,java,js,html,css,react,nodejs,nextjs,express,mongodb,tailwind,firebase,supabase,appwrite,bootstrap,redux,git,github,vscode,postman,npm,vercel,netlify,react,android,arduino,linux,socketio,sqlite,discord,ai,ps,pr,ae" />
-</a>
-
-<br/>
-<br/>
-
-<p align="center">
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/REACT%20NATIVE-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />
-  </a>
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/REACT%20ROUTER-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="reactrouter" />
-  </a>
-  <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/NODEMON-76DEC5?style=for-the-badge&logo=nodemon&logoColor=white" alt="nodemon" />
-  </a>
-  <a href="https://ejs.co/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="ejs" />
-  </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/NUMPY-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PANDAS-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MATPLOTLIB-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ADOBE%20PHOTOSHOP-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ADOBE%20LIGHTROOM-%2331A8FF.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white" alt="lightroom" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.adobe.com/products/photoshop-lightroom-classic.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ADOBE%20LIGHTROOM%20CLASSIC-%2331A8FF.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white" alt="lightroom-classic" />
-  </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/FRAMER-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="framer" />
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CANVA-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="powerbi" />
-  </a>
-  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="cisco" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/WINDOWS%20TERMINAL-%234D4D4D.svg?style=for-the-badge&logo=Windows%20Terminal&logoColor=white" alt="terminal" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/BASH-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />
-  </a>
-  <a href="https://www.vultr.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VULTR-007AFC?style=for-the-badge&logo=Vultr&logoColor=white" alt="vultr" />
-  </a>
-  <a href="https://www.openapis.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OPENAPI-6BA539?style=for-the-badge&logo=OpenAPI-Initiative&logoColor=white" alt="openapi" />
-  </a>
+<p align="left">
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Command Center
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhavyag-dev&show_icons=true&bg_color=000000&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyag-dev&layout=compact&bg_color=000000&title_color=00F5FF&text_color=ffffff&hide_border=true&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavyag-dev&background=000000&border=000000&stroke=000000&ring=00F5FF&fire=00F5FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F5FF&sideLabels=ffffff&dates=888888&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavyag-dev&bg_color=000000&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhavyag-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>⭐ Top Contributed Repo</h3>
+      <table border="1" cellpadding="5" cellspacing="0" width="100%" style="border-collapse: collapse; border: 1px solid rgba(255,255,255,0.15);">
+        <thead>
+          <tr>
+            <th align="left">Repository</th>
+            <th align="left">Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/Bhavyag-dev/Fetchz"><strong>Fetchz</strong></a></td>
+            <td>AI-Native High-Performance Media Downloader for YouTube, X, Instagram, and Pinterest</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Bhavyag-dev/Planora"><strong>Planora</strong></a></td>
+            <td>Modern Event Management SaaS for corporate workspaces and communities</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/Bhavyag-dev/CampusEvents"><strong>CampusEvents</strong></a></td>
+            <td>Full-stack college event listing and management web application</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td width="40%" valign="top" style="padding-left: 20px;">
+      <h3>🤖 Random Dev Quote</h3>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td>
+            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 💬 Dev Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Support Me ☕
+<a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
-</div>
-
----
-
-<div align="center">
-
-```
-"First, solve the problem. Then, write the code." — John Johnson
-```
-
-**⭐ Drop a star if you vibe with my work — it means the world!**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bhavyag-dev/Bhavyag-dev/main/clock.svg" width="160" alt="Digital Clock" />
-</p>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
