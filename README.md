@@ -21,7 +21,9 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts,html,css,react,nodejs,git,github,vscode,linux,figma&theme=dark" height="38" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=astro,c,cpp,py,java,js,ts,html,css,react,nodejs,powershell,r,php,bash,arduino,git,github,vscode,linux,figma&theme=dark" height="38" alt="tech stack"/>
+  <img src="https://img.shields.io/badge/Antigravity_AI-00f5ff?style=for-the-badge&logo=googlegemini&logoColor=black" height="38" alt="Antigravity AI"/>
+  <img src="https://img.shields.io/badge/Cursor-1a1a1a?style=for-the-badge&logo=cursor&logoColor=white" height="38" alt="Cursor"/>
 </div>
 
 <br/>
@@ -46,13 +48,8 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bhavyag-dev&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=999999&stroke=ffffff&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhavyag-dev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=10" alt="Most Used Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=Bhavyag-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhavyag-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%"/>
 </div>
 
 <br/>
