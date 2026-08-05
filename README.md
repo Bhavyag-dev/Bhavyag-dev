@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Bhavyag-dev/Bhavyag-dev/main/golden-gate-traffic.gif" width="100%" alt="Golden Gate Traffic" />
+<img src="https://raw.githubusercontent.com/Bhavyag-dev/Bhavyag-dev/main/banner.gif" width="100%" alt="Banner" />
 
 <br/>
 
