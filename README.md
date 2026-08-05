@@ -1,4 +1,13 @@
-<video src="golden-gate-traffic.mp4" width="100%" autoplay loop muted playsinline></video>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="middle">
+      <video src="golden-gate-traffic.mp4" width="100%" autoplay loop muted playsinline style="border-radius: 6px;"></video>
+    </td>
+    <td align="right" valign="middle" style="padding-left: 15px;" width="165">
+      <img src="clock.svg" width="160" alt="Digital Clock" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
