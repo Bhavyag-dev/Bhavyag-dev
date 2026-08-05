@@ -26,6 +26,14 @@
 
 <br/>
 
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,powershell,py,r,php,bash,dotnet,anaconda,mysql,figma,tensorflow,git&theme=dark" alt="tech stack"/>
+</div>
+
+<br/>
+
 ## ⚡ GitHub Stats
 
 <div align="center">
@@ -35,14 +43,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyag-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages"/>
-</div>
-
-<br/>
-
-## 💻 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,powershell,py,r,php,bash,dotnet,anaconda,mysql,figma,tensorflow,git&theme=dark" alt="tech stack"/>
 </div>
 
 <br/>
