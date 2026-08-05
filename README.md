@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Bhavyag-dev/Bhavyag-dev/main/banner.gif" width="100%" alt="Banner" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bhavyag-dev/Bhavyag-dev/main/banner.gif" width="80%" alt="Banner" />
+</p>
 
 <br/>
 
