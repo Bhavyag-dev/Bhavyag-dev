@@ -1,11 +1,11 @@
-<img src="golden-gate-traffic.gif" width="100%" alt="Golden Gate Traffic" />
+<img src="https://raw.githubusercontent.com/Bhavyag-dev/Bhavyag-dev/main/golden-gate-traffic.gif" width="100%" alt="Golden Gate Traffic" />
 
 <br/>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="90" valign="top">
-      <img src="vagabond.jpg" width="90" style="border-radius: 8px;" alt="Bhavya Goyal" />
+      <img src="https://raw.githubusercontent.com/Bhavyag-dev/Bhavyag-dev/main/vagabond.jpg" width="90" style="border-radius: 8px;" alt="Bhavya Goyal" />
     </td>
     <td valign="top" style="padding-left: 20px;">
       <h1 align="left">Bhavya Goyal</h1>
@@ -181,7 +181,7 @@ const bhavya = {
 **⭐ Drop a star if you vibe with my work — it means the world!**
 
 <p align="center">
-  <img src="clock.svg" width="160" alt="Digital Clock" />
+  <img src="https://raw.githubusercontent.com/Bhavyag-dev/Bhavyag-dev/main/clock.svg" width="160" alt="Digital Clock" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
