@@ -6,16 +6,15 @@
 
 ## 📌 About Me
 
-<!--
-  Replace the lines below with your own info.
-  Keep one line per bullet — this section is now full-width (no side image).
--->
+🔭 I'm currently building full-stack applications, AI-powered products, and open-source projects.
 
-- 🔭 I'm currently working on **...**
-- 🌱 I'm currently learning **...**
-- 👯 I'm looking to collaborate on **...**
-- 💬 Ask me about **...**
-- ⚡ Fun fact: **...**
+🌱 I'm currently learning TypeScript, advanced React, backend development, and software architecture.
+
+👯 I'm looking to collaborate on React, AI, Web3, and open-source projects.
+
+💬 Ask me about JavaScript, React, GitHub, web development, AI, or building products.
+
+⚡ I believe in building fast and shipping faster.
 
 <br/>
 
