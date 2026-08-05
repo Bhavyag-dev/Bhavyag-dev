@@ -1,4 +1,4 @@
-<video src="golden-gate-traffic.mp4" width="100%" autoplay loop muted playsinline></video>
+<img src="golden-gate-traffic.gif" width="100%" alt="Golden Gate Traffic" />
 
 <br/>
 
