@@ -6,37 +6,15 @@
 
 ## 📌 About Me
 
-<img src="https://img.shields.io/badge/BUILDING-00F5FF?style=for-the-badge&logo=rocket&logoColor=black" alt="building"/>
-<br/>
-I'm currently building full-stack applications, AI-powered products, and open-source projects.
+🔭 I'm currently building full-stack applications, AI-powered products, and open-source projects.
 
-<br/>
-<br/>
+🌱 I'm currently learning TypeScript, advanced React, backend development, and software architecture.
 
-<img src="https://img.shields.io/badge/LEARNING-FFDD00?style=for-the-badge&logo=gitbook&logoColor=black" alt="learning"/>
-<br/>
-I'm currently learning TypeScript, advanced React, backend development, and software architecture.
+👯 I'm looking to collaborate on React, AI, Web3, and open-source projects.
 
-<br/>
-<br/>
+💬 Ask me about JavaScript, React, GitHub, web development, AI, or building products.
 
-<img src="https://img.shields.io/badge/COLLABORATING-FF3366?style=for-the-badge&logo=teamspeak&logoColor=white" alt="collaborating"/>
-<br/>
-I'm looking to collaborate on React, AI, Web3, and open-source projects.
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/TALK_TO_ME-00CC66?style=for-the-badge&logo=chatgpt&logoColor=white" alt="connecting"/>
-<br/>
-Ask me about JavaScript, React, GitHub, web development, AI, or building products.
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/PHILOSOPHY-8A2BE2?style=for-the-badge&logo=speedtest&logoColor=white" alt="philosophy"/>
-<br/>
-I believe in building fast and shipping faster.
+⚡ I believe in building fast and shipping faster.
 
 <br/>
 
