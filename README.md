@@ -18,6 +18,14 @@
 
 <br/>
 
+## 📅 Contribution Calendar
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/ffffff/Bhavyag-dev" alt="Bhavyag-dev's Contribution Chart"/>
+</div>
+
+<br/>
+
 ## 🛠️ Languages & Tools
 
 <div align="center">
