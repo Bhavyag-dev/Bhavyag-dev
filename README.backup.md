@@ -1,44 +1,22 @@
-<video src="golden-gate-traffic.mp4" width="100%" autoplay loop muted playsinline></video>
-
-<br/>
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="90" valign="top">
-      <img src="vagabond.jpg" width="90" style="border-radius: 8px;" alt="Bhavya Goyal" />
-    </td>
-    <td valign="top" style="padding-left: 20px;">
-      <h1 align="left">Bhavya Goyal</h1>
-      <p align="left"><strong>Full Stack & Web3 Developer</strong> • Building the internet I want to use.</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-* ⚡ AI, Web3, and developer tools keep me curious.
-* 🚀 I optimize for learning, shipping, and compounding.
-* 🛠 Currently building **Planora** and experimenting with workspace event SaaS platforms.
-
-<br/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+there%2C+I'm+BHAVYA+%F0%9F%91%8B;Full-Stack+Dev+%7C+MERN+Alchemist+%7C+Code+Craftsman" alt="Typing SVG" />
+
+```
+██████╗ ██╗  ██╗ █████╗ ██╗   ██╗██╗   ██╗ █████╗
+██╔══██╗██║  ██║██╔══██╗██║   ██║╚██╗ ██╔╝██╔══██╗
+██████╔╝███████║███████║██║   ██║ ╚████╔╝ ███████║
+██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝  ╚██╔╝  ██╔══██║
+██████╔╝██║  ██║██║  ██║ ╚████╔╝    ██║   ██║  ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝     ╚═╝   ╚═╝  ╚═╝
+
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+there%2C+I'm+BHAVYA+%F0%9F%91%8B;Full-Stack+Dev+%7C+MERN+Alchemist+%7C+Code+Craftsman" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Bhavyag-dev&label=Profile+Views&color=00f5ff&style=flat-square" />
+&nbsp;
+[![wakatime](https://wakatime.com/badge/user/Bhavyag-dev.svg?style=flat-square)](https://wakatime.com/@Bhavyag-dev)
+
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhavyag-dev&label=Profile+Views&color=00f5ff&style=flat-square" />
-  &nbsp;
-  <a href="https://wakatime.com/@Bhavyag-dev"><img src="https://wakatime.com/badge/user/Bhavyag-dev.svg?style=flat-square" alt="wakatime" /></a>
-</p>
-
-<p align="center">
-  <a href="mailto:gbhavyawork@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/bhavyagoyal1/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Bhavyag-dev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://x.com/Bhavyaztwt"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://cal.com/bhavya-goyal/30min"><img src="https://img.shields.io/badge/Book%20a%20Call-000000?style=for-the-badge&logo=calendly&logoColor=white" /></a>
-</p>
 
 ---
 
@@ -141,16 +119,16 @@ const bhavya = {
 ## 📊 GitHub Command Center
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhavyag-dev&show_icons=true&bg_color=000000&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyag-dev&layout=compact&bg_color=000000&title_color=00F5FF&text_color=ffffff&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhavyag-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyag-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavyag-dev&background=000000&border=000000&stroke=000000&ring=00F5FF&fire=00F5FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F5FF&sideLabels=ffffff&dates=888888&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavyag-dev&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavyag-dev&bg_color=000000&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavyag-dev&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -158,7 +136,19 @@ const bhavya = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhavyag-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhavyag-dev&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+</div>
+
+---
+
+## 🌐 Let's Build Something Together
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbhavyawork@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-goyal-05530a30a/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhavyag-dev)
+
 </div>
 
 ---
@@ -183,3 +173,5 @@ const bhavya = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+
+If you want, I can give you one more version with your own email and LinkedIn changed too.
