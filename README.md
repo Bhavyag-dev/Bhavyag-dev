@@ -4,17 +4,14 @@
 
 <br/>
 
-## 📌 About Me
+## 👋 About Me
 
-🔭 I'm currently building full-stack applications, AI-powered products, and open-source projects.
-
-🌱 I'm currently learning TypeScript, advanced React, backend development, and software architecture.
-
-👯 I'm looking to collaborate on React, AI, Web3, and open-source projects.
-
-💬 Ask me about JavaScript, React, GitHub, web development, AI, or building products.
-
-⚡ I believe in building fast and shipping faster.
+- 💻 Full-Stack Engineer, currently diving deep into **Web3**
+- 🚀 Two internships down
+- ⚡ I believe in **building fast and shipping faster**
+- 🔭 Always exploring new codebases, fresh project ideas, and building **AI-native** tools and codebases
+- 🎯 Passionate about building *with* startups — or building one of my own
+- 😄 Fun fact: I refactor my code more than I sleep
 
 <br/>
 
