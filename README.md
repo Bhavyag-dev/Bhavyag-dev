@@ -83,8 +83,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Bhavyag-dev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_radius=10" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhavyag-dev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=10" alt="Most Used Languages" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhavyag-dev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=10" alt="Most Used Languages"/>
 </div>
 
 <br/>
