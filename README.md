@@ -99,5 +99,5 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavyag-dev&theme=github-compact&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true" alt="commit graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavyag-dev&theme=tokyo-night&hide_border=true&area=true" alt="commit graph" width="95%"/>
 </div>
