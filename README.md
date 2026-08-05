@@ -36,31 +36,83 @@ const bhavya = {
 
 ---
 
-## ⚡ Tech Arsenal
+## 💻 Tech Stack
 
-<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=astro,c,cpp,py,java,js,html,css,react,nodejs,nextjs,express,mongodb,tailwind,firebase,supabase,appwrite,bootstrap,redux,git,github,vscode,postman,npm,vercel,netlify,react,android,arduino,linux,socketio,sqlite,discord,ai,ps,pr,ae" />
+</a>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<br/>
+<br/>
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/REACT%20NATIVE-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />
+  </a>
+  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/REACT%20ROUTER-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="reactrouter" />
+  </a>
+  <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/NODEMON-76DEC5?style=for-the-badge&logo=nodemon&logoColor=white" alt="nodemon" />
+  </a>
+  <a href="https://ejs.co/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="ejs" />
+  </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/NUMPY-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+  </a>
+</p>
 
-### 🛠 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PANDAS-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MATPLOTLIB-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ADOBE%20PHOTOSHOP-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ADOBE%20LIGHTROOM-%2331A8FF.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white" alt="lightroom" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.adobe.com/products/photoshop-lightroom-classic.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ADOBE%20LIGHTROOM%20CLASSIC-%2331A8FF.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white" alt="lightroom-classic" />
+  </a>
+  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/FRAMER-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="framer" />
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CANVA-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="powerbi" />
+  </a>
+  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="cisco" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WINDOWS%20TERMINAL-%234D4D4D.svg?style=for-the-badge&logo=Windows%20Terminal&logoColor=white" alt="terminal" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/BASH-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />
+  </a>
+  <a href="https://www.vultr.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VULTR-007AFC?style=for-the-badge&logo=Vultr&logoColor=white" alt="vultr" />
+  </a>
+  <a href="https://www.openapis.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/OPENAPI-6BA539?style=for-the-badge&logo=OpenAPI-Initiative&logoColor=white" alt="openapi" />
+  </a>
+</p>
 
 ---
 
