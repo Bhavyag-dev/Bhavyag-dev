@@ -21,7 +21,7 @@
 ## 📅 Contribution Calendar
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/ffffff/Bhavyag-dev" alt="Bhavyag-dev's Contribution Chart"/>
+  <img src="https://ghchart.rshah.org/7e22ce/Bhavyag-dev" alt="Bhavyag-dev's Contribution Chart"/>
 </div>
 
 <br/>
