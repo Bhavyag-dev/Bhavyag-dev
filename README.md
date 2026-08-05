@@ -1,13 +1,4 @@
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="middle">
-      <video src="golden-gate-traffic.mp4" width="100%" autoplay loop muted playsinline style="border-radius: 6px;"></video>
-    </td>
-    <td align="right" valign="middle" style="padding-left: 15px;" width="165">
-      <img src="clock.svg" width="160" alt="Digital Clock" />
-    </td>
-  </tr>
-</table>
+<video src="golden-gate-traffic.mp4" width="100%" autoplay loop muted playsinline></video>
 
 <br/>
 
@@ -188,6 +179,10 @@ const bhavya = {
 ```
 
 **⭐ Drop a star if you vibe with my work — it means the world!**
+
+<p align="center">
+  <img src="clock.svg" width="160" alt="Digital Clock" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
