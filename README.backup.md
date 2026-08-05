@@ -39,8 +39,7 @@ const bhavya = {
 ## 💻 Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://cdn.simpleicons.org/python/000000" width="48" height="48" alt="python" />
-  <img src="https://skillicons.dev/icons?i=astro,c,cpp,java,js,html,css,react,nodejs,nextjs,express,mongodb,tailwind,firebase,supabase,appwrite,bootstrap,redux,git,github,vscode,postman,npm,vercel,netlify,react,android,arduino,linux,socketio,sqlite,discord,ai,ps,pr,ae" />
+  <img src="https://skillicons.dev/icons?i=astro,c,cpp,py,java,js,html,css,react,nodejs,nextjs,express,mongodb,tailwind,firebase,supabase,appwrite,bootstrap,redux,git,github,vscode,postman,npm,vercel,netlify,react,android,arduino,linux,socketio,sqlite,discord,ai,ps,pr,ae" />
 </a>
 
 <br/>

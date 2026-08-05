@@ -22,8 +22,7 @@
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/python/000000" width="48" height="48" alt="python" />
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,html,css,react,nodejs,git,github,vscode,linux,figma&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts,html,css,react,nodejs,git,github,vscode,linux,figma&theme=dark" alt="tools"/>
 </div>
 
 <br/>
@@ -44,8 +43,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/python/000000" width="48" height="48" alt="python" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,powershell,r,php,bash,dotnet,anaconda,mysql,figma,tensorflow,git&theme=dark" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,powershell,py,r,php,bash,dotnet,anaconda,mysql,figma,tensorflow,git&theme=dark" alt="tech stack"/>
 </div>
 
 <br/>
